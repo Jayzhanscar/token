@@ -1,0 +1,33 @@
+{
+  "name": "DEFI",
+  "logoURI": "https://turingquant.one/static/44.png",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-11-30T10:43:47.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0x2f5AEe8024c0C03988e8bf07640b1692D1E6474F",
+      "name": "NBIToken",
+      "symbol": "NBI",
+      "decimals": 18,
+      "logoURI": "https://turingquant.one/static/44.png"
+      },
+      {
+      "chainId": 2,
+      "address": "0x72bf6BA0B4DD9aE2e9b989c10f133aAbf892e1DC",
+      "name": "TIKToken",
+      "symbol": "TIK",
+      "decimals": 18,
+      "logoURI": "https://turingquant.one/static/33.png"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
